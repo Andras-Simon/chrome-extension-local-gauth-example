@@ -3,4 +3,4 @@ How to use it:
 - go to chrome://extensions/ and open this extension to load it in developer mode.
 - Go go https://this-page-intentionally-left-blank.org/
 - Click on **Sign in with Google**
-- Go through the process of signing in, then the access_token returned by Gogle will appear on the page.
+- Go through the process of signing in, then the access_token returned by Google will appear on the page.
